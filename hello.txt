@@ -1,2 +1,4 @@
-"Hello world!"
-It's java!
+Hello world!
+It's python!
+It's javascript!
+New changes!
